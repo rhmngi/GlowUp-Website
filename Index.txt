@@ -1,0 +1,70 @@
+\---
+HTML:
+\<!DOCTYPE html>
+\<html lang="en">
+\<link rel="stylesheet"href=.css">
+\<meta charset="UTF-8">
+\<meta name="viewport" content="width=device-width, initial-scale=1.0">
+\<meta name="description" content="GlowUp Beauty Co. - Unlock your natural glow with cruelty-free, vegan cosmetics.">
+\<title>GlowUp Beauty Co.\</title>
+\<link rel="stylesheet" href="styles.css">
+\</head>
+\<body>
+\<header class="header">
+\<div class="container">
+\<h1>GlowUp Beauty Co.\</h1>
+\<p class="tagline">Unlock Your Natural Glow\</p>
+\<a href="#shop" class="cta">Shop Now\</a>
+\</div>
+\</header>
+\<nav class="navbar">
+\<ul>
+\<li>\<a href="#about">About Us\</a>\</li>
+\<li>\<a href="#shop">Shop\</a>\</li>
+\<li>\<a href="#blog">Blog\</a>\</li>
+\<li>\<a href="#contact">Contact\</a>\</li>
+\</ul>
+\</nav>
+\<main>
+\<section id="about" class="about">
+\<h2>About Us\</h2>
+\<p>At GlowUp Beauty Co., we’re passionate about providing high-quality, cruelty-free makeup and cosmetics that cater to all skin tones and types.\</p>
+\</section>
+\<section id="shop" class="shop">
+\<h2>Shop Our Collection\</h2>
+\<div class="product">
+\<h3>Vegan Foundation\</h3>
+\<p>Our best-selling, skin-matching foundation for a flawless finish.\</p>
+\<button>Add to Cart\</button>
+\</div>
+\<div class="product">
+\<h3>LashLux Mascara\</h3>
+\<p>Lengthen, volumize, and define your lashes with our iconic mascara.\</p>
+\<button>Add to Cart\</button>
+\</div>
+\<div class="product">
+\<h3>Glowing Highlighter\</h3>
+\<p>Give your skin a radiant glow with our creamy, buildable highlighter.\</p>
+\<button>Add to Cart\</button>
+\</div>
+\</section>
+\<section id="blog" class="blog">
+\<h2>Beauty Tips & Inspiration\</h2>
+\<ul>
+\<li>\<a href="#">How to Find the Perfect Foundation Match\</a>\</li>
+\<li>\<a href="#">5 Vegan Makeup Essentials You’ll Love\</a>\</li>
+\<li>\<a href="#">Behind the Glow: Our Commitment to Cruelty-Free Beauty\</a>\</li>
+\</ul>
+\</section>
+\</main>
+\<footer class="footer">
+\<p>\&copy; 2024 GlowUp Beauty Co. All rights reserved.\</p>
+\<ul class="social-links">
+\<li>\<a href="#">Pinterest\</a>\</li>
+\<li>\<a href="#">Instagram\</a>\</li>
+\<li>\<a href="#">Facebook\</a>\</li>
+\</ul>
+\</footer>
+\</body>
+\</html>
+\---
